@@ -1,0 +1,28 @@
+ {
+  "plants" : {
+        "Saracenia alata f.viridescens" : {
+            "genus": "Sarracenia",
+            "spiecies": "alata",
+            "varietas": null,
+            "subspiecies": null,
+            "forma": "f. viridescens",
+            "hybrids": null,
+            "cultivar_name": null,
+            "location": "Washington Co., AL"
+    },
+
+      "Sarracenia flava var. ornata" : {
+        "genus": "Sarracenia",
+        "spiecies": "flava",
+        "varietas": "var.ornata",
+        "subspiecies": null,
+        "forma": null,
+        "hybrids": null,
+        "cultivar_name": "Solid red throat with diff used veins around neck",
+        "location": "Apalachicola National Forest, FL"
+    }
+
+  }
+
+
+}
