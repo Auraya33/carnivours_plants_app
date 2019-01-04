@@ -6,8 +6,9 @@
       "spiecies": "alata",
       "varietas": null,
       "subspiecies": null,
-      "forma": "f. viridescens",
+      "forma": "viridescens",
       "hybrids": null,
+      "clone": null,
       "cultivar_name": null,
       "description": null,
       "location": "Washington Co., AL"
@@ -16,7 +17,7 @@
     {
       "genus": "Sarracenia",
       "spiecies": "flava",
-      "varietas": "var.ornata",
+      "varietas": "ornata",
       "subspiecies": null,
       "forma": null,
       "hybrids": null,
@@ -28,8 +29,8 @@
     {
       "genus": "Sarracenia",
       "spiecies": "purpurea",
-      "varietas": "var. burkii",
-      "subspecies": "ssp. venosa",
+      "varietas": "burkii",
+      "subspecies": "venosa",
       "forma": null,
       "hybrids": null,
       "cultivar_name": "Chipola Giant",
@@ -41,7 +42,7 @@
       "genus": "Sarracenia",
       "spiecies": "purpurea",
       "varietas": null,
-      "subspiecies": "ssp. purpurea",
+      "subspiecies": "purpurea",
       "forma": null,
       "hybrids": null,
       "cultivar_name": "Nearly veinles Plant",
@@ -76,9 +77,9 @@
     {
       "genus": "Sarracenia",
       "spiecies": "psittacina",
-      "varietas": "var. okefenokeensis",
+      "varietas": "okefenokeensis",
       "subspiecies": null,
-      "forma": "f. luteoviridis",
+      "forma": "luteoviridis",
       "hybrids": null,
       "cultivar_name": null,
       "description": null,
@@ -96,7 +97,6 @@
       "description": "MK H113",
       "location": null
     }
-
 
 
 
