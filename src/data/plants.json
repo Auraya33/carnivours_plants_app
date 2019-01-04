@@ -1,28 +1,107 @@
  {
-  "plants" : {
-        "Saracenia alata f.viridescens" : {
-            "genus": "Sarracenia",
-            "spiecies": "alata",
-            "varietas": null,
-            "subspiecies": null,
-            "forma": "f. viridescens",
-            "hybrids": null,
-            "cultivar_name": null,
-            "location": "Washington Co., AL"
+  "plants" : [
+
+    {
+      "genus": "Sarracenia",
+      "spiecies": "alata",
+      "varietas": null,
+      "subspiecies": null,
+      "forma": "f. viridescens",
+      "hybrids": null,
+      "cultivar_name": null,
+      "description": null,
+      "location": "Washington Co., AL"
     },
 
-      "Sarracenia flava var. ornata" : {
-        "genus": "Sarracenia",
-        "spiecies": "flava",
-        "varietas": "var.ornata",
-        "subspiecies": null,
-        "forma": null,
-        "hybrids": null,
-        "cultivar_name": "Solid red throat with diff used veins around neck",
-        "location": "Apalachicola National Forest, FL"
+    {
+      "genus": "Sarracenia",
+      "spiecies": "flava",
+      "varietas": "var.ornata",
+      "subspiecies": null,
+      "forma": null,
+      "hybrids": null,
+      "cultivar_name": "Solid red throat with diff used veins around neck",
+      "description": "MK F88",
+      "location": "Apalachicola National Forest, FL"
+    },
+
+    {
+      "genus": "Sarracenia",
+      "spiecies": "purpurea",
+      "varietas": "var. burkii",
+      "subspecies": "ssp. venosa",
+      "forma": null,
+      "hybrids": null,
+      "cultivar_name": "Chipola Giant",
+      "description": null,
+      "location": null
+    },
+
+    {
+      "genus": "Sarracenia",
+      "spiecies": "purpurea",
+      "varietas": null,
+      "subspiecies": "ssp. purpurea",
+      "forma": null,
+      "hybrids": null,
+      "cultivar_name": "Nearly veinles Plant",
+      "description": "Pale yellow plant",
+      "location": "Moss Lake, Grey Co, Ontario, Canada"
+    },
+
+    {
+      "genus": "Sarracenia",
+      "spiecies": null,
+      "varietas": null,
+      "subspiecies": null,
+      "forma": null,
+      "hybrids": "X exornata",
+      "cultivar_name": "Peaches and Cream",
+      "description": "Mark Wesson, 2005",
+      "location": null
+    },
+
+    {
+      "genus": "Sarracenia",
+      "spiecies": null,
+      "varietas": null,
+      "subspiecies": null,
+      "forma": null,
+      "hybrids": null,
+      "cultivar_name": "Alucard",
+      "description": null,
+      "location": null
+    },
+
+    {
+      "genus": "Sarracenia",
+      "spiecies": "psittacina",
+      "varietas": "var. okefenokeensis",
+      "subspiecies": null,
+      "forma": "f. luteoviridis",
+      "hybrids": null,
+      "cultivar_name": null,
+      "description": null,
+      "location": "Sandy Creek Road, Bay Co, Florida"
+    },
+
+    {
+      "genus": "Sarracenia",
+      "spiecies": null,
+      "varietas": null,
+      "subspiecies": null,
+      "forma": null,
+      "hybrids": "X moorei",
+      "cultivar_name": "Adrian Slack",
+      "description": "MK H113",
+      "location": null
     }
 
-  }
 
 
-}
+
+
+
+  ]
+
+ }
